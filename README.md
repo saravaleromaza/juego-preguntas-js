@@ -12,6 +12,10 @@ Proyecto realizado como práctica de mis primeros pasos en JavaScript.
 4. Si el tiempo se acaba antes, verás **¡GAME OVER!** y sonará un audio.
 5. Pulsa **Volver a intentar** para reiniciar el juego.
 
+## Ver en vivo
+
+https://saravaleromaza.github.io/juego-preguntas-js/
+
 ## 🛠️ Tecnologías
 
 - HTML5
