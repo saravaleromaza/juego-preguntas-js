@@ -1,0 +1,82 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eef2ff;
+    color: #1f2937;
+    max-width: 500px;
+    margin: 40px auto;
+    padding: 24px;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+html {
+    background-color: #eef2ff;
+}
+
+h1 {
+    text-align: center;
+    color: #4f46e5;
+}
+
+h2#temporizador {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #dc2626;
+    margin: 10px 0;
+}
+
+h3 {
+    text-align: center;
+    font-weight: normal;
+}
+
+label {
+    display: block;
+    margin-top: 16px;
+    font-weight: bold;
+}
+
+input[type="text"] {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 6px;
+    padding: 8px;
+    border: 2px solid #c7d2fe;
+    border-radius: 6px;
+    font-size: 1rem;
+}
+
+input[type="text"]:focus {
+    outline: none;
+    border-color: #4f46e5;
+}
+
+br {
+    display: none;
+}
+
+button {
+    display: block;
+    width: 100%;
+    margin-top: 16px;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+#btnFinalizar {
+    background-color: #16a34a;
+}
+
+#btnIntentar {
+    background-color: #4f46e5;
+}
+
+button:hover {
+    opacity: 0.85;
+}
